@@ -59,4 +59,3 @@ void tambahKegiatan() {
 
     cout << "\nKegiatan berhasil ditambahkan!" << endl;
 }
-\
