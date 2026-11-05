@@ -59,3 +59,15 @@ void tambahKegiatan() {
 
     cout << "\nKegiatan berhasil ditambahkan!" << endl;
 }
+int main() {
+    int pilihan;
+
+    tampilkanMenu();
+    cin >> pilihan;
+
+    if (pilihan == 1) {
+        tambahKegiatan();
+    }
+
+    return 0;
+}
