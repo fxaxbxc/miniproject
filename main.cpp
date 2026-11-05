@@ -23,3 +23,4 @@ void tampilkanJudul(string judul) {
 // Fungsi menampilkan menu utama
 void tampilkanMenu() {
     tampilkanJudul("DAILY ACTIVITY PLANNER");
+}
